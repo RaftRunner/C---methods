@@ -1,0 +1,14 @@
+c:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\bin\Debug\net8.0\calcApp.exe
+c:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\bin\Debug\net8.0\calcApp.deps.json
+c:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\bin\Debug\net8.0\calcApp.runtimeconfig.json
+c:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\bin\Debug\net8.0\calcApp.dll
+c:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\bin\Debug\net8.0\calcApp.pdb
+c:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\obj\Debug\net8.0\calcApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\obj\Debug\net8.0\calcApp.AssemblyInfoInputs.cache
+c:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\obj\Debug\net8.0\calcApp.AssemblyInfo.cs
+c:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\obj\Debug\net8.0\calcApp.csproj.CoreCompileInputs.cache
+c:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\obj\Debug\net8.0\calcApp.dll
+c:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\obj\Debug\net8.0\refint\calcApp.dll
+c:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\obj\Debug\net8.0\calcApp.pdb
+c:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\obj\Debug\net8.0\calcApp.genruntimeconfig.cache
+c:\Users\Tyler\OneDrive\Desktop\C# projects\calcApp\obj\Debug\net8.0\ref\calcApp.dll
